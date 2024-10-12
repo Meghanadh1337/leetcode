@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Meghanadh1337/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Meghanadh1337/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Meghanadh1337/leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Bit Manipulation
 |  |
@@ -22,4 +23,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Meghanadh1337/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Meghanadh1337/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Two Pointers
+|  |
+| ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Meghanadh1337/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Greedy
+|  |
+| ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Meghanadh1337/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Sorting
+|  |
+| ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Meghanadh1337/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Prefix Sum
+|  |
+| ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Meghanadh1337/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
