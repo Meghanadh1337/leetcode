@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Meghanadh1337/leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Meghanadh1337/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Meghanadh1337/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Meghanadh1337/leetcode/tree/master/0046-permutations) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Meghanadh1337/leetcode/tree/master/0031-next-permutation) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Meghanadh1337/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/Meghanadh1337/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
