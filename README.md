@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Meghanadh1337/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Meghanadh1337/leetcode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Meghanadh1337/leetcode/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/Meghanadh1337/leetcode/tree/master/0216-combination-sum-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Meghanadh1337/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Meghanadh1337/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Meghanadh1337/leetcode/tree/master/0078-subsets) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Meghanadh1337/leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Enumeration
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Meghanadh1337/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Meghanadh1337/leetcode/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/Meghanadh1337/leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Meghanadh1337/leetcode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Meghanadh1337/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Meghanadh1337/leetcode/tree/master/0216-combination-sum-iii) |
 ## Dynamic Programming
