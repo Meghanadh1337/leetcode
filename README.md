@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Meghanadh1337/leetcode/tree/master/0131-palindrome-partitioning) |
 | [1304-longest-happy-string](https://github.com/Meghanadh1337/leetcode/tree/master/1304-longest-happy-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Meghanadh1337/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Math
@@ -75,5 +76,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Meghanadh1337/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Meghanadh1337/leetcode/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/Meghanadh1337/leetcode/tree/master/0077-combinations) |
+| [0131-palindrome-partitioning](https://github.com/Meghanadh1337/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Meghanadh1337/leetcode/tree/master/0216-combination-sum-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Meghanadh1337/leetcode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
