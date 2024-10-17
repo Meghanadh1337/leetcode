@@ -74,5 +74,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Meghanadh1337/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Meghanadh1337/leetcode/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/Meghanadh1337/leetcode/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/Meghanadh1337/leetcode/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
