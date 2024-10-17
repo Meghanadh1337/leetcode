@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Meghanadh1337/leetcode/tree/master/0039-combination-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Meghanadh1337/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Meghanadh1337/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Meghanadh1337/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/Meghanadh1337/leetcode/tree/master/0670-maximum-swap) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Meghanadh1337/leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
