@@ -2,17 +2,12 @@ class Solution {
     public List<List<String>> solveNQueens(int n) {
         List<List<String>> ans=new ArrayList<>();
         List<String> brd=new ArrayList<>();
-        StringBuilder rowOfBoard = new StringBuilder();
-
-        // Initialize an empty board
-        for (int i = 0; i < n; i++) {
-            rowOfBoard.append(".");
-        }
-
-        // Fill the board with empty rows
-        for (int i = 0; i < n; i++) {
-            brd.add(rowOfBoard.toString());
-        }
+        String rowOfBoard="";
+        for(int i=0;i<n;i++)
+            rowOfBoard+=".";
+        for(int i=0;i<n;i++)
+            brd.add(new String(rowOfBoard) );
+            
 
        findSol(brd,0,n,ans);
        return ans;
