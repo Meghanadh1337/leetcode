@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Meghanadh1337/leetcode/tree/master/0216-combination-sum-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Meghanadh1337/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Meghanadh1337/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Meghanadh1337/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Meghanadh1337/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Meghanadh1337/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Meghanadh1337/leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
@@ -22,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Meghanadh1337/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Meghanadh1337/leetcode/tree/master/0090-subsets-ii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Meghanadh1337/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Meghanadh1337/leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Enumeration
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Meghanadh1337/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Meghanadh1337/leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Hash Table
 |  |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Meghanadh1337/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Meghanadh1337/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Meghanadh1337/leetcode/tree/master/0216-combination-sum-iii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Meghanadh1337/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
