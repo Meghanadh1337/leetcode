@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Meghanadh1337/leetcode/tree/master/0060-permutation-sequence) |
 | [0670-maximum-swap](https://github.com/Meghanadh1337/leetcode/tree/master/0670-maximum-swap) |
 ## Backtracking
 |  |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Meghanadh1337/leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Meghanadh1337/leetcode/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
