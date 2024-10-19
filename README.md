@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Meghanadh1337/leetcode/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/Meghanadh1337/leetcode/tree/master/0060-permutation-sequence) |
 | [0670-maximum-swap](https://github.com/Meghanadh1337/leetcode/tree/master/0670-maximum-swap) |
 ## Backtracking
