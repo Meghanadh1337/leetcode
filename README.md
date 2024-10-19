@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Meghanadh1337/leetcode/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/Meghanadh1337/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Meghanadh1337/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Meghanadh1337/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Meghanadh1337/leetcode/tree/master/0046-permutations) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Meghanadh1337/leetcode/tree/master/0037-sudoku-solver) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Meghanadh1337/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Meghanadh1337/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Heap (Priority Queue)
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Meghanadh1337/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Meghanadh1337/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Meghanadh1337/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Meghanadh1337/leetcode/tree/master/0046-permutations) |
@@ -100,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Meghanadh1337/leetcode/tree/master/0131-palindrome-partitioning) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Meghanadh1337/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
