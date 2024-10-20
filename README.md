@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Meghanadh1337/leetcode/tree/master/0131-palindrome-partitioning) |
+| [1197-parsing-a-boolean-expression](https://github.com/Meghanadh1337/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/Meghanadh1337/leetcode/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Meghanadh1337/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Meghanadh1337/leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -126,9 +127,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Meghanadh1337/leetcode/tree/master/0060-permutation-sequence) |
+| [1197-parsing-a-boolean-expression](https://github.com/Meghanadh1337/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Meghanadh1337/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Simulation
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Meghanadh1337/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Stack
+|  |
+| ------- |
+| [1197-parsing-a-boolean-expression](https://github.com/Meghanadh1337/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 <!---LeetCode Topics End-->
