@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Meghanadh1337/leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Meghanadh1337/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Meghanadh1337/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Meghanadh1337/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Meghanadh1337/leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Meghanadh1337/leetcode/tree/master/0216-combination-sum-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Meghanadh1337/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Meghanadh1337/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Meghanadh1337/leetcode/tree/master/0131-palindrome-partitioning) |
 | [1197-parsing-a-boolean-expression](https://github.com/Meghanadh1337/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/Meghanadh1337/leetcode/tree/master/1304-longest-happy-string) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Meghanadh1337/leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Meghanadh1337/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Meghanadh1337/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Meghanadh1337/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Meghanadh1337/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Meghanadh1337/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Meghanadh1337/leetcode/tree/master/0216-combination-sum-iii) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Meghanadh1337/leetcode/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/Meghanadh1337/leetcode/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
 | ------- |
