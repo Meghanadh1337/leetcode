@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Meghanadh1337/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Meghanadh1337/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Meghanadh1337/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Meghanadh1337/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -126,11 +127,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Meghanadh1337/leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Meghanadh1337/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Meghanadh1337/leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Meghanadh1337/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Meghanadh1337/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Graph
 |  |
 | ------- |
@@ -153,8 +156,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Meghanadh1337/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Meghanadh1337/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Meghanadh1337/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Meghanadh1337/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 <!---LeetCode Topics End-->
