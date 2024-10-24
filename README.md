@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/Meghanadh1337/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Meghanadh1337/leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Meghanadh1337/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -155,11 +156,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/Meghanadh1337/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Meghanadh1337/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Meghanadh1337/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/Meghanadh1337/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Meghanadh1337/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Meghanadh1337/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 <!---LeetCode Topics End-->
