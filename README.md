@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Meghanadh1337/leetcode/tree/master/0216-combination-sum-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Meghanadh1337/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Meghanadh1337/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Meghanadh1337/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Meghanadh1337/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Meghanadh1337/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Meghanadh1337/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -123,11 +124,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Meghanadh1337/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0213-house-robber-ii](https://github.com/Meghanadh1337/leetcode/tree/master/0213-house-robber-ii) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Meghanadh1337/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Matrix
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Meghanadh1337/leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Meghanadh1337/leetcode/tree/master/0079-word-search) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Meghanadh1337/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Depth-First Search
 |  |
 | ------- |
