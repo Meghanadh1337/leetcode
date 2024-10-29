@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Meghanadh1337/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Meghanadh1337/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Meghanadh1337/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Meghanadh1337/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Meghanadh1337/leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Bit Manipulation
 |  |
@@ -129,12 +130,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Meghanadh1337/leetcode/tree/master/0213-house-robber-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Meghanadh1337/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Meghanadh1337/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Meghanadh1337/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Meghanadh1337/leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Meghanadh1337/leetcode/tree/master/0079-word-search) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Meghanadh1337/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Meghanadh1337/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
