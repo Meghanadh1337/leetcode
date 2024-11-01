@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Meghanadh1337/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Meghanadh1337/leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Meghanadh1337/leetcode/tree/master/0051-n-queens) |
+| [0063-unique-paths-ii](https://github.com/Meghanadh1337/leetcode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Meghanadh1337/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Meghanadh1337/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Meghanadh1337/leetcode/tree/master/0090-subsets-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Meghanadh1337/leetcode/tree/master/0063-unique-paths-ii) |
 | [0131-palindrome-partitioning](https://github.com/Meghanadh1337/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Meghanadh1337/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Meghanadh1337/leetcode/tree/master/0213-house-robber-ii) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Meghanadh1337/leetcode/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/Meghanadh1337/leetcode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Meghanadh1337/leetcode/tree/master/0079-word-search) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Meghanadh1337/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Meghanadh1337/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
