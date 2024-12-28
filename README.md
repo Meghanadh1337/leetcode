@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Meghanadh1337/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Meghanadh1337/leetcode/tree/master/0037-sudoku-solver) |
+| [0133-clone-graph](https://github.com/Meghanadh1337/leetcode/tree/master/0133-clone-graph) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Meghanadh1337/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Meghanadh1337/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Meghanadh1337/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Meghanadh1337/leetcode/tree/master/0133-clone-graph) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Meghanadh1337/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Meghanadh1337/leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Meghanadh1337/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Meghanadh1337/leetcode/tree/master/0133-clone-graph) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Meghanadh1337/leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Meghanadh1337/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Meghanadh1337/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Meghanadh1337/leetcode/tree/master/0133-clone-graph) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Meghanadh1337/leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 ## Recursion
 |  |
